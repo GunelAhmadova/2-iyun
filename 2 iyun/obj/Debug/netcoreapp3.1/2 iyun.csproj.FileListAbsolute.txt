@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\2 iyun\bin\Debug\netcoreapp3.1\2 iyun.exe
+C:\Users\user\source\repos\2 iyun\bin\Debug\netcoreapp3.1\2 iyun.deps.json
+C:\Users\user\source\repos\2 iyun\bin\Debug\netcoreapp3.1\2 iyun.runtimeconfig.json
+C:\Users\user\source\repos\2 iyun\bin\Debug\netcoreapp3.1\2 iyun.runtimeconfig.dev.json
+C:\Users\user\source\repos\2 iyun\bin\Debug\netcoreapp3.1\2 iyun.dll
+C:\Users\user\source\repos\2 iyun\bin\Debug\netcoreapp3.1\2 iyun.pdb
+C:\Users\user\source\repos\2 iyun\obj\Debug\netcoreapp3.1\2 iyun.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\2 iyun\obj\Debug\netcoreapp3.1\2 iyun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\2 iyun\obj\Debug\netcoreapp3.1\2 iyun.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\2 iyun\obj\Debug\netcoreapp3.1\2 iyun.AssemblyInfo.cs
+C:\Users\user\source\repos\2 iyun\obj\Debug\netcoreapp3.1\2 iyun.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2 iyun\obj\Debug\netcoreapp3.1\2 iyun.dll
+C:\Users\user\source\repos\2 iyun\obj\Debug\netcoreapp3.1\2 iyun.pdb
+C:\Users\user\source\repos\2 iyun\obj\Debug\netcoreapp3.1\2 iyun.genruntimeconfig.cache
